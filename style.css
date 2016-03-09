@@ -1,0 +1,56 @@
+#menu {
+background-color: #373c4a;
+color: white;
+width:100%;
+height:47px;
+display:;
+}
+
+ul {
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ }
+
+li {
+ float:left;
+ border-left:1px solid black;
+ }
+
+ html,body {
+ margin:0;
+ }
+
+#wrapper {
+width:100%;
+}
+
+.bloc-center {
+width:960px;
+margin: 0 auto;
+}
+
+.ligne {
+
+}
+
+.photo {
+
+}
+
+.bloc-droite {
+
+}
+
+.bloc-blanc {
+
+}
+
+.serie-images {
+
+}
+
+.images {
+
+}
+
